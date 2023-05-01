@@ -7,7 +7,7 @@ I learned how to properly notate in HTML and CSS. I also had a huge learning exp
 
 Screen Shot of Webpage
 
-C:\Users\maddi\bootcamp\first-day\projectlost\assets\images\screenshot.jpeg
+
 
 Links To Resources
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
